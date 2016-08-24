@@ -1,1 +1,0 @@
-# SNS and Dynamo Example
